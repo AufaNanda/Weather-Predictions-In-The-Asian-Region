@@ -1,5 +1,5 @@
 # Weather-Predictions-In-The-Asian-Region
-Cuaca di asia sangat beragram dan berpengaruh ke dalam lingkungan. Efek dari cuaca dapat memberikan output bagus ataupun jelek. Dibutuhkan sebuah model algoritma yang dapat memprediksi cuaca di region asia. Proyek ini diharapkan dapat membantu memprediksi suasaana di region asia untuk kepentingan bersama.
+The weather in Asia is diverse and significantly impacts the environment. The effects of weather can yield both positive and negative outcomes. A reliable algorithmic model is needed to predict weather conditions in the Asian region. This project aims to assist in forecasting weather in Asia for collective benefit.
 
 # Objective
 - Build machine learning models with Decision Tree & Random Forest
